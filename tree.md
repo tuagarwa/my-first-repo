@@ -1,2 +1,4 @@
 #This is my project
-![This is an image.](ISHU 00.png)
+
+
+![This is an image.] (https://github.com/tuagarwa/my-first-repo/blob/master/ISHU%2000.png) 
