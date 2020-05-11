@@ -1,13 +1,17 @@
+all:	README.md README1.md README2.md	
+
+
 README.md:
 	touch README.md
-	echo "# CREATION OF FILE USING Git GitHub AND Make Command " >> README.md
-	echo " <br/>" >> README.md 
+	echo "# CREATION OF FILE USING GIT GitHub AND Make Command " >> README.md
+	echo " <br/>" >> README.md
 
-README8.md:
+README1.md:
 	echo "<br/>" >> README.md
 	history >> README.md
 	echo "<br/>" >> README.md
 
-README9.md:
+README2.md:
 	echo "<br/>" >> README.md
 	wc -l guessinggame.sh >> README.md
+	
